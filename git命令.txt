@@ -27,3 +27,12 @@
 查看git全部命令：git --help
 
 查看git某个命令的使用：git help 命令名
+
+修改注释：git commit --amend 
+
+连接到远程库：git remote add origin 远程地址 
+
+
+
+
+
